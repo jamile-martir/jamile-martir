@@ -1,15 +1,10 @@
-Bem-vindo(a) ao meu perfil 
+# Olá! Eu sou a Jamile 👋
 
- <div>
-   <a href="https://github.com/jamile-martir">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamile-martir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamile-martir&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
+- Estudante de **Inteligência Artificial na Universidade Federal de Ouro Preto (UFOP)**.
+
+- Estou iniciando minha jornada na área de tecnologia, desenvolvendo conhecimentos em programação e desenvolvimento de software.
+
+- Atualmente, estou aprendendo e explorando novas tecnologias, construindo projetos e aprimorando minhas habilidades.
+
+- Este perfil reúne meus estudos, projetos acadêmicos e minha evolução na programação.
+

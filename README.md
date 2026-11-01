@@ -8,7 +8,7 @@
 
 🎓 **Estudante de Inteligência Artificial na Universidade Federal de Ouro Preto (UFOP).**
 
-💻 Interessada em tecnologia, programação e desenvolvimento de software.
+💻 Interessada em tecnologia, programação, games e desenvolvimento de software.
 
 Atualmente, estou construindo minha base na área da computação, explorando diferentes tecnologias e desenvolvendo projetos para colocar meus conhecimentos em prática.
 

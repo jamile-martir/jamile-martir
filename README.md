@@ -1,10 +1,36 @@
 # Olá! Eu sou a Jamile 👋
 
-- Estudante de **Inteligência Artificial na Universidade Federal de Ouro Preto (UFOP)**.
+🎓 **Estudante de Inteligência Artificial na Universidade Federal de Ouro Preto (UFOP).**
 
-- Estou iniciando minha jornada na área de tecnologia, desenvolvendo conhecimentos em programação e desenvolvimento de software.
+💻 Interessada em tecnologia, programação e desenvolvimento de software.
 
-- Atualmente, estou aprendendo e explorando novas tecnologias, construindo projetos e aprimorando minhas habilidades.
+Atualmente, estou construindo minha base na área da computação, explorando diferentes tecnologias e desenvolvendo projetos para colocar meus conhecimentos em prática.
 
-- Este perfil reúne meus estudos, projetos acadêmicos e minha evolução na programação.
+---
 
+### Sobre mim
+
+- 🎓Graduanda em Inteligência Artificial pela UFOP.
+-  Em constante aprendizado na área de programação.
+-  Interessada em desenvolvimento de software e novas tecnologias.
+-  Utilizando este espaço para compartilhar meus estudos e projetos.
+
+### Tecnologias e ferramentas
+
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
+
+### Projetos
+
+Aqui você encontrará projetos acadêmicos, exercícios de programação e experiências desenvolvidas ao longo da minha jornada na tecnologia.
+
+---
+
+### Vamos nos conectar?
+
+Você pode acompanhar minha evolução e meus projetos por aqui!
+
+**Obrigada pela visita!** 💜

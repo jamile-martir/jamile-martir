@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner-github.png" width="100%" alt="Banner Jamile Martir">
+</div>
+
+<br>
+
 # Olá! Eu sou a Jamile 👋
 
 🎓 **Estudante de Inteligência Artificial na Universidade Federal de Ouro Preto (UFOP).**

@@ -40,9 +40,8 @@ Um carrossel interativo com imagens e descrições dos dragões do universo Hous
 
 Tecnologias: HTML, CSS e JavaScript.
 
-Acessar o projeto online
-
-Ver código-fonte
+- [Acessar o projeto online](https://jamile-martir.github.io/projeto-hod-szpc/)
+- [Ver código-fonte](https://github.com/jamile-martir/projeto-hod-szpc)
 
 ---
 

@@ -28,7 +28,21 @@ Atualmente, estou construindo minha base na área da computação, explorando di
 ### Projetos
 
 Aqui você encontrará projetos acadêmicos, exercícios de programação e experiências desenvolvidas ao longo da minha jornada na tecnologia.
+ Projetos em destaque
 
+### Projetos em destaque
+
+🐉 House of the Dragon
+
+Projeto Front-end desenvolvido durante um curso de programação.
+
+Um carrossel interativo com imagens e descrições dos dragões do universo House of the Dragon.
+
+Tecnologias: HTML, CSS e JavaScript.
+
+Acessar o projeto online
+
+Ver código-fonte
 ---
 
 ### Vamos nos conectar?

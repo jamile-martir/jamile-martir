@@ -10,7 +10,7 @@ Atualmente, estou construindo minha base na área da computação, explorando di
 
 ### Sobre mim
 
-- 🎓Graduanda em Inteligência Artificial pela UFOP.
+-  Graduanda em Inteligência Artificial pela UFOP.
 -  Em constante aprendizado na área de programação.
 -  Interessada em desenvolvimento de software e novas tecnologias.
 -  Utilizando este espaço para compartilhar meus estudos e projetos.
